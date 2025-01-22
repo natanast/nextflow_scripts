@@ -1,2 +1,2 @@
-# nextflow_scripts
-This repository includes some simple scripts written with Nextflow
+# Nextflow scripts
+This repository includes some simple scripts written with Nextflow.
