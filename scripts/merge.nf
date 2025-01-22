@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
-params.fastq_L1 = "${projectDir}/fastq/E23427_S40_L001_R1_001.fastq.gz"
-params.fastq_L2 = "${projectDir}/fastq/E23427_S40_L002_R1_001.fastq.gz"
+params.fastq_L1 = "${projectDir}/fastq/file1.fastq.gz"
+params.fastq_L2 = "${projectDir}/fastq/file2.fastq.gz"
 params.outdir = "${projectDir}/results"
 
 /*
